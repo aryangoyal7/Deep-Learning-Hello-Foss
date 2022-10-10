@@ -30,6 +30,9 @@ Good First Issue is an initiative to artifically create easy to fix issues in pr
 - It's always better to visualize results graphically, plot graps for various paramters like loss vs no. of epochs, related to accuracy etc.
 - Try finding the ideal batch-loader size by changing it's value and running the model.
 
+## Relevant Sources and documentation
+https://drive.google.com/drive/folders/1mTojuq6HrYSX01Dif6-3WePFKAflkaoQ?usp=sharing
+
 
 
 
