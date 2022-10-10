@@ -13,7 +13,7 @@ Don't worry, if you dont know the above tech stack, you can learn them with the 
 
 ## The Model
 
-We have used ResNet9 architecture for our model, about which you can read more [here](). 
+We have used ResNet9 architecture for our model, about which you can read more [here](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035). 
 </br>
 We have imported the dataset from Kaggle, it's divided into 4 classes having almost 5k images and also it's fairly balanced as almost equal number of images for all the 4 classes of batting shots.
 </br>
